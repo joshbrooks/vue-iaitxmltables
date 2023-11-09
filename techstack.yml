@@ -1,0 +1,18 @@
+repo_name: joshbrooks/vue-iaitxmltables
+report_id: 83a1b304556ce919f9035325ecac0f98
+repo_type: Public
+timestamp: '2023-11-09T23:16:49+00:00'
+requested_by: joshbrooks
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
